@@ -1,7 +1,7 @@
 # Machine-learning
 ---
 
-This repository contains my solutions to machine learning assignments for the **ITMLA DV.2023.C6T1D0** course.
+This repository contains my solutions to machine learning assignments for the **ITMLA which is a machine learning** course.
 The work covers **data preprocessing, model training, and evaluation** using Python and popular ML libraries.
 
 ---
@@ -40,7 +40,7 @@ The work covers **data preprocessing, model training, and evaluation** using Pyt
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/ITMLA-ML-Assignments.git
+   git clone https://github.com/Ndivho-Mutavhatsindi/Machine-Learning.git
    cd ITMLA-ML-Assignments
    ```
 
